@@ -50,5 +50,4 @@
 </div>
 
 ###
-Profile Readme Generator
-1 error
+
