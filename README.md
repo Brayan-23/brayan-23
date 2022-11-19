@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Terminei a escola faz pouco tempo e a partir dai, busco ingressar no mercado de trabalho. Realizei um curso de informática onde percebi meu interesse em tecnologia, em saber como esses vários programas funcionam e operam, como eles são mantidos, daí em diante foquei em estudar e me concentrar em aprender <br> cada vez mais, para que um dia eu também posso criar ou até mesmo participar de uma tecnologia inovadora.</p>
+<p align="left">Terminei a escola faz pouco tempo e a partir dai, busco ingressar no mercado de trabalho. Realizei um curso de informática onde percebi meu interesse em tecnologia, em saber como esses vários programas funcionam e operam, como eles são mantidos, daí em diante foquei em estudar e me concentrar em aprender cada vez mais, para que um dia eu também posso criar ou até mesmo participar de uma tecnologia inovadora.</p>
 
 ###
 
