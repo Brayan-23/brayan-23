@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sempre fui bastante curioso em saber como as coisas são e funcinam e ao realizar um curso de informática, foi onde percebi meu interesse em tecnologia, em saber como esses vários programas funcionam e operam, como eles são mantidos e construídoss, daí em diante foquei em estudar e me concentrar em aprender cada vez mais, para que um dia eu também posso criar ou até mesmo participar da construção de uma tecnologia inovadora.</p>
+<p align="left">Sempre fui bastante curioso em saber como as coisas são e funcinam e ao realizar um curso de informática, foi onde percebi meu interesse em tecnologia, em saber como esses vários programas funcionam e operam, como eles são mantidos e construídoss. Daí em diante foquei em estudar e me concentrar em aprender cada vez mais, para que um dia eu também posso criar ou até mesmo participar da construção de uma tecnologia inovadora.</p>
 
 ###
 
