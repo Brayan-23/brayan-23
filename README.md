@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">I'm a full-stack developer</h3>
+<h3 align="left">I'm a full-stack developer 💻</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"> 👩‍⚖️About me:</h2>
 
 ###
 
