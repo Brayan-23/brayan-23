@@ -5,6 +5,7 @@
 <h3 align="left">I'm a full-stack developer 💻</h3>
 
 ###
+---
 
 <h2 align="left"> 👩‍⚖️About me:</h2>
 
@@ -19,10 +20,12 @@
 </div>
 
 ###
+---
 
 <h2 align="left">Frameworks and Technologies</h2>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -35,8 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="python.svg" height="40" width="52" alt="python logo"  />
 </div>
 
+---
 ###
 
 <h2 align="left">Connect with me:</h2>
